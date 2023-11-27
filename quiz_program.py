@@ -2,7 +2,7 @@
 import random
 from questions import quiz_questions
 
-# Git Quiz
+# Git Quiz modified 
 # Define the quiz questions as a list of dictionaries
 # quiz_questions = [
 #     {
