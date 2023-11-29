@@ -26,6 +26,11 @@ quiz_questions = [
         'question': 'How is a code block indicated in Python?',
         'options': ['Bracket','Indentation','Key','None of above'],
         'answer': 'Indentation'
+    },
+    {
+        'question': 'What is called when a function is defined inside a class?',
+        'options': ['Module','Class','Another Function','Method'],
+        'answer': 'Method'
     }
 ]
 
